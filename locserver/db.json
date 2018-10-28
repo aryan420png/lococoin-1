@@ -1,0 +1,24 @@
+{"receipts":
+[
+	{
+		"type":"andr",
+		"amount":"500",
+		"target_addr":"0xadjl",
+		"loc":"12.2092:16.122"
+	},
+	{
+		"type":"rpi",
+		"amount":"50",
+		"target_addr":"0xadjl",
+		"loc":"12.2092:16.122"
+	},
+	{
+		"type":"rpi",
+		"amount":"50",
+		"target_addr":"0xadjl",
+		"loc":"0:0"
+	}
+
+]
+}
+
